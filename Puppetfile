@@ -4,6 +4,7 @@ mod 'puppetlabs-ntp', '9.1.0'
 mod 'puppetlabs-motd', '6.1.0'
 mod 'puppetlabs-mysql', '12.0.1'
 mod 'puppet-php', '8.0.1'
+mod 'puppet-archive', '6.0.1'
 
 mod 'puppet_apache',
    :git => 'git@github.com:rimman43/puppet_apache.git'
