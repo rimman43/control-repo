@@ -1,6 +1,6 @@
 forge 'https://forge.puppet.com'
 
-mod 'puppetlabs-ntp', '9.1.0'
+#mod 'puppetlabs-ntp', '9.1.0'
 mod 'puppetlabs-motd', '6.1.0'
 mod 'puppetlabs-mysql', '12.0.1'
 mod 'puppet-php', '8.0.1'
