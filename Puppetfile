@@ -16,8 +16,8 @@ mod 'puppet_apache',
 #mod 'puppet_roles',
 #   :git => 'git@github.com:rimman43/puppet_roles.git'
 
-#mod 'puppet_base',
-#   :git => 'git@github.com:rimman43/puppet-base.git'
+mod 'puppet_base',
+   :git => 'git@github.com:rimman43/puppet-base.git'
 
 # Modules from the Puppet Forge
 # Versions should be updated to be the latest at the time you start
