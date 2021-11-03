@@ -10,11 +10,11 @@ mod 'theforeman-foreman_scap_client', '0.4.0'
 mod 'puppet_apache',
    :git => 'git@github.com:rimman43/puppet_apache.git'
 
-#mod 'puppet_profiles',
-#   :git => 'git@github.com:rimman43/puppet_profiles.git'
+mod 'puppet_profiles',
+   :git => 'git@github.com:rimman43/puppet_profiles.git'
 
-#mod 'puppet_roles',
-#   :git => 'git@github.com:rimman43/puppet_roles.git'
+mod 'puppet_roles',
+   :git => 'git@github.com:rimman43/puppet_roles.git'
 
 mod 'puppet_base',
    :git => 'git@github.com:rimman43/puppet-base.git'
